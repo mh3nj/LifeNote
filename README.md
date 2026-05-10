@@ -137,7 +137,9 @@ But if you want to make your own fork with more features, go for it ;)
 
 ---
 
-## Contact
+## Author
+
+**Mohsen Jafari** - Creator, Developer, Designer
 
 - GitHub: [mh3nj](https://github.com/mh3nj)
 - LinkedIn: [mh3nj](https://linkedin.com/in/mh3nj)
