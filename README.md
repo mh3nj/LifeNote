@@ -137,5 +137,13 @@ But if you want to make your own fork with more features, go for it ;)
 
 ---
 
+## Contact
+
+- GitHub: [mh3nj](https://github.com/mh3nj)
+- LinkedIn: [mh3nj](https://linkedin.com/in/mh3nj)
+- Websites: [Parsegan.com](https://parsegan.com) (logo design), [Dahgan.com](https://dahgan.com) (land surveying/portfolio)
+
+---
+
 **Made with <3 and `SOUND 1000, 10`**  
 *– For the 12-year-old me, wherever he is right now.*
