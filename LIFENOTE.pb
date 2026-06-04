@@ -1,6 +1,6 @@
-﻿; ==========================================
+; ==========================================
 ;          LIFE NOTE v2.0
-;    QBasic Blue Screen Edition - GOD TIER
+;    QBasic Blue Screen Edition
 ;  For the 14-year-old me who loved
 ;  SCREEN 0, COLOR 11,1, and SOUND
 ;  Now with: streaks, moods, letters,
@@ -8,7 +8,7 @@
 ; ==========================================
 
 OpenConsole()
-ConsoleTitle("QBasic Life Note v2.0 - GOD TIER EDITION")
+ConsoleTitle("QBasic Life Note v2.0")
 ; Resize console to 84x50 so logos render correctly, then wait for OS to repaint
 RunProgram("cmd.exe", "/c mode con: cols=83 lines=50", "", #PB_Program_Wait)
 Delay(300)
@@ -2338,7 +2338,7 @@ Procedure ShowMainMenu()
   ClsScreen()
   SetHighlight()
   ConsoleLocate(0, 0) : PrintN("  " + RepeatStr("=", 74))
-  ConsoleLocate(0, 1) : PrintN("      LIFE NOTE v2.0   ~   " + TodayDate() + "   ~   GOD TIER EDITION")
+  ConsoleLocate(0, 1) : PrintN("      LIFE NOTE v2.0   ~   " + TodayDate())
   ConsoleLocate(0, 2) : PrintN("  " + RepeatStr("=", 74))
   SetNormal()
 
@@ -2410,7 +2410,7 @@ EndIf
 ; Title bar at bottom of logo
 ConsoleLocate(0, 44)
 SetHighlight()
-PrintN(Space(4) + "LIFE NOTE v2.0   ~   GOD TIER EDITION   ~   " + TodayDate())
+PrintN(Space(4) + "LIFE NOTE v2.0" + TodayDate())
 SetNormal()
 ConsoleLocate(0, 45)
 PrintN(Space(4) + "Loading memories...")
@@ -2530,9 +2530,16 @@ CloseConsole()
 End
 
 ; IDE Options = PureBasic 6.30 (Windows - x64)
-; CursorPosition = 1
-; FirstLine = 1
-; Folding = ---
+; ExecutableFormat = Console
+; CursorPosition = 2500
+; FirstLine = 2457
+; Folding = -------------
 ; EnableXP
 ; DPIAware
+; UseIcon = favicon.ico
 ; Executable = LifeNote.exe
+; IncludeVersionInfo
+; VersionField0 = 2.0
+; VersionField13 = anoushzadparsi@gmail.com
+; VersionField14 = dahgan.com
+; VersionField17 = 0409 English (United States)
