@@ -6,7 +6,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 
-<img src="/assets/banner.png" alt="LifeNote's banner" />
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/b6ad01d2-43aa-4e84-a252-027dd254caab" />
+
 
 ---
 
@@ -93,6 +94,20 @@ normal
 ```
 
 the XOR encrypted export uses key `QBASIC1990`. to decrypt it yourself: XOR every character with the repeating key. very simple, very retro
+
+---
+## screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="/screenshots/screenshot1.png" alt="first screenshot of lifenote app" width="100%" />
+    </td>
+    <td>
+      <img src="/screenshots/screenshot2.png" alt="second screenshot of lifenote app" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
