@@ -249,7 +249,7 @@ this is a personal time capsule. but if you want to fork it and make your own ve
 **Mohsen Jafari**.
 
 - github: [mh3nj](https://github.com/mh3nj)
-- linkedin: [Mohsen Jafari's Xing Profile](https://www.xing.com/profile/Mohsen_Jafari093223/)
+- Xing: [Mohsen Jafari's Xing Profile](https://www.xing.com/profile/Mohsen_Jafari093223/)
 - logo design: [parsegan.com](https://parsegan.com)
 - land surveying / portfolio: [dahgan.com](https://dahgan.com)
 
