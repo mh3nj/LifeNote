@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/b6ad01d2-43aa-4e84-a252-027dd254caab" />
+<img width="100%" alt="banner" src="/assets/banner.png" />
 
 
 ---
